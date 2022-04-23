@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#container
+{
+    background-color: white;
+    height:56.1em;
+}
+
+.box
+{
+    flex:auto;
+    align-items: center;
+    border:1px solid black;
+    padding: 10px;
+    width:fit-content;
+    margin-left:43em;
+    margin-top:20em;
+    box-shadow: 5px 5px 5px gray;
+    background-color:white;
+}
+
+.box button
+{
+    margin-left:75px;
+}
