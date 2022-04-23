@@ -5,8 +5,10 @@
 
 #container
 {
+    display: block;
     background-color: white;
-    height:56.1em;
+    height:100vh;
+    width:100vw;
 }
 
 .box
